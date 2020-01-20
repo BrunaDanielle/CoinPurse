@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "697427312628",
+    "firebase_url": "https://coin-cash-42afe.firebaseio.com",
+    "project_id": "coin-cash-42afe",
+    "storage_bucket": "coin-cash-42afe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697427312628:android:cf9ad4182d6753f70a43a1",
+        "android_client_info": {
+          "package_name": "com.example.coincash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697427312628-59ij33tab9db6ucrra5jmnne5b60qq2b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.coincash",
+            "certificate_hash": "19d362944e999a068edd0937876cb9090de0b175"
+          }
+        },
+        {
+          "client_id": "697427312628-ecr9ml1qnmhsf7rtlhh9mun7vill8ii2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG3kgpQWvAGFT8Vq1ySrOPYPBZNc9mMCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697427312628-ecr9ml1qnmhsf7rtlhh9mun7vill8ii2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

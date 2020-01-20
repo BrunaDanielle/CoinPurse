@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Coin Purse</string>
+    <string name="title_activity_principal">PrincipalActivity</string>
+    <string name="default_notification_channel_id">fcm_default_channel</string>
+</resources>
